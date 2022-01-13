@@ -1,26 +1,18 @@
 # FatmahMohammed
 
 
-Greeting everyone, I'm Fatimah,
-
- * Computer Science Student at Arab Open University
-
-* Interested in web development(HTML, CSS, JS, and react)
-
-* curious graphic designers & photographer
-
-* blogger & translator 
 
 
 
 
-<h3 align="center">* Computer Science Student at Arab Open University
+<h3 align="center">Greeting everyone, I'm Fatimah,
+  Computer Science Student at Arab Open University
 
-* Interested in web development(HTML, CSS, JS, and react)
+ Interested in web development(HTML, CSS, JS, and react)
 
-* curious graphic designers & photographer
+ curious graphic designers & photographer
 
-* blogger & translator</h3>
+ blogger & translator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxfatj&label=Profile%20views&color=0e75b6&style=flat" alt="xxfatj" /> </p>
 
