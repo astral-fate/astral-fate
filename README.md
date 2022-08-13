@@ -32,9 +32,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astral-fate&show_icons=true&locale=en&layout=compact" alt="astral-fate" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alhanoofalsagir&show_icons=true&locale=en" alt="alhanoofalsagir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astral-fate&show_icons=true&locale=en" alt="astral-fate" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alhanoofalsagir&" alt="alhanoofalsagir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astral-fate&" alt="astral-fate" /></p>
 
 
 
