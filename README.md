@@ -6,13 +6,12 @@
 
 
 <h3 align="center">Greeting everyone, I'm Fatimah,
-  Computer Science Student at Arab Open University
+  Senior Computer Science Student at Arab Open University
 
- Interested in web development(HTML, CSS, JS, and react)
+ Interested in Software Engineering 
+ Enthusiastic Pythonista
 
- curious graphic designers & photographer
-
- blogger & translator</h3>
+ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxfatj&label=Profile%20views&color=0e75b6&style=flat" alt="xxfatj" /> </p>
 
