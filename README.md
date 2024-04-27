@@ -5,8 +5,8 @@
 
 
 
-<h3 align="center">Greeting everyone, I'm Fatimah,
-  Senior Computer Science Student at Arab Open University
+<h3 align="center">Greeting everyone, I'm Fatimah, <br>
+  Computer Science graduate from Arab Open University.  <br>
 
  Interested in Software Engineering 
  Enthusiastic Pythonista
