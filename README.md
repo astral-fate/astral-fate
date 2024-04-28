@@ -15,13 +15,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxfatj&label=Profile%20views&color=0e75b6&style=flat" alt="xxfatj" /> </p>
 
-
+### Currebtky Working On:
   
+  
+  <img src="https://github.com/astral-fate/UN-Women-Back-End-Scholarship" height="16" /> [**The UN Woman Back-End Scholarships**](https://github.com/astral-fate/UN-Women-Back-End-Scholarship)<br />Fundmentals of PHP and Larvel framework.
+  
+  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**Data Science Internship**]([https://github.com/nyartech/hyperpay](https://github.com/astral-fate/BloomDuck-Data-Science-Internship))<br /> Data validating using diffrent open source API libraries for nutirions.
 
-
-
-
-
+  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**DEPI IBM Data Science Program**]([https://github.com/astral-fate/DEPI-IBM-Data-Science))<br /> Data validating using diffrent open source API libraries for nutirions.
 
 
 
