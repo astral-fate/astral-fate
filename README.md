@@ -24,7 +24,7 @@
 
   <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**DEPI IBM Data Science Program**](https://github.com/astral-fate/DEPI-IBM-Data-Science)<br /> Coursera's IBM data science content, hosted and orgnized by minstry of technology.
 
-  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**Manara AWS Cloud Program**]([https://github.com/astral-fate/DEPI-IBM-Data-Science](https://github.com/astral-fate/Manara-AWS-Cloud-Program))<br /> Remote program on the fundmentals of AWS and cloud computing and Services. The program is aligned with AWS Certification exam.
+  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**Manara AWS Cloud Program**](https://github.com/astral-fate/Manara-AWS-Cloud-Program)<br /> Remote program on the fundmentals of AWS and cloud computing and Services. The program is aligned with AWS Certification exam.
 
 
 
