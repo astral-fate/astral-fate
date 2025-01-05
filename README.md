@@ -1,4 +1,4 @@
-# FatmahMohammed
+# Welcome Everyone!
 
 
 
@@ -6,23 +6,19 @@
 
 
 <h3 align="center">Greeting everyone, I'm Fatimah, <br>
-  Computer Science graduate from Arab Open University.  <br>
+  Software Engeenring graduate student at Cairo University.  <br>
 
- Interested in Software Engineering 
- Enthusiastic Pythonista
+ Interested in bioinformatics and Software Engineering 
 
  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxfatj&label=Profile%20views&color=0e75b6&style=flat" alt="xxfatj" /> </p>
 
-### Currebtky Working On:
+### Currently Working On:
   
   
-  <img src="https://github.com/astral-fate/UN-Women-Back-End-Scholarship" height="16" /> [**The UN Woman Advanced Laravel Scholarships**](https://github.com/astral-fate/UN-Women-Laravel-Scholarship)<br/> Laravel, STMP, Sessions
-  
-  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**Aja Space Traning**](https://github.com/astral-fate/Aja-Space-BioInformatics-Project-Afity)<br />Aja Space Training: Bioinformatics project; Afity
+  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif"  height="16" /> [**MSc in Software Engineering**](https://github.com/astral-fate/Cairo-University-Software-Engineering-Professional-Master-s-Degree)<br/> Database, Quality Assurance, Research methods
 
-  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**DEPI IBM Data Science Program**](https://github.com/astral-fate/DEPI-IBM-Data-Science)<br /> Coursera's IBM data science content, hosted and orgnized by minstry of technology.
 
 
 
