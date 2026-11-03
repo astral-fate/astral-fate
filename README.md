@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=6E56CF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Fatimah+%F0%9F%91%8B;AI+Researcher+%26+Product+Engineer;RAG+%E2%80%A2+Agents+%E2%80%A2+Arabic+NLP+%26+Speech" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=6E56CF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Fatimah+%F0%9F%91%8B;I+build+AI+that+retrieves+%26+reasons;RAG+%E2%80%A2+Agents+%E2%80%A2+Arabic+NLP+%26+Speech" alt="Typing intro" />
 
-**AI Researcher & Product Engineer at [Trouve Labs](https://trouve.works)** · MSc Software Engineering @ Cairo University
+**AI engineering & research** · RAG · LLM agents · Arabic NLP & speech
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astral-fate/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/FatimahEmadEldin)
@@ -19,7 +19,7 @@
 
 I build retrieval, agent and evaluation systems that ship, and I publish on Arabic language and speech technology.
 
-- 🔭 **Now:** RAG and text-to-SQL for enterprise data at Trouve Labs. Retrieval recall@5 went from **0.775 → 0.928** on our PathRAG work.
+- 🔭 **Focus:** retrieval-augmented generation, LLM agents and evaluation: making AI answer from the right data, and measuring it honestly.
 - 📄 **21 peer-reviewed papers** (EMNLP, ICCV, EACL, LREC-COLING), including a **3rd Best Paper** at ArabicNLP 2025.
 - 🏆 **16 awards**, including **4 hackathon wins**, among them **NASA Space Apps 2025 (1st, Global Nominee)**.
 - 🤗 **43 models · 42 datasets · 29 Spaces** public on Hugging Face.
