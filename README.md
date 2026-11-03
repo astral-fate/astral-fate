@@ -31,7 +31,7 @@ I build retrieval, agent and evaluation systems that ship, and I publish on Arab
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Isharati**](https://github.com/astral-fate/isharati-signs) | Cited Q&A over Qur'an & hadith in 4 languages, answered in sign language; hybrid BM25 + E5 retrieval with rank fusion | FastAPI · React · three.js · Docker |
+| [**Isharati**](https://github.com/astral-fate/isharati-signs) | Cited Q&A over Qur'an & hadith in 4 languages, answered in sign language; hybrid BM25 + E5 retrieval with rank fusion. 🏅 Top 20 of 200, Bathel AI Challenge 2026 | FastAPI · React · three.js · Docker |
 | [**Astro-Hunters**](https://github.com/astral-fate/Astro-Hunters) · [app](https://astro-hunters.vercel.app/) · [🤗 model](https://huggingface.co/FatimahEmadEldin/Astro-Hunters-Transit-Detector) | Exoplanet transit detection in NASA TESS light curves + interactive web app. 🥇 NASA Space Apps 2025, [Global Nominee](https://www.spaceappschallenge.org/2025/find-a-team/astro-hunter/) · [paper](https://arxiv.org/abs/2608.18172) | lightkurve · XGBoost · React · Vite |
 | [**NovaMart**](https://github.com/astral-fate/agentic-ai-aws-nanodegree-project-3) | 5-agent system on Bedrock AgentCore: orchestrator + 3 parallel retrievers over Knowledge Bases, Guardrails, X-Ray tracing. Graded 120/120 | Strands · AWS Bedrock · AgentCore |
 | [**AgentCore support agent**](https://github.com/astral-fate/agentic-ai-aws-nanodegree-project-2) | MCP Gateway tools, KB RAG, cross-session memory, sandboxed Code Interpreter; 99 offline tests | Strands · Lambda · MCP |
@@ -62,6 +62,7 @@ I build retrieval, agent and evaluation systems that ship, and I publish on Arab
 - 🏅 **3rd Best Paper** — ArabicNLP 2025 (EMNLP)
 - 5th of 61 — Apart Research Secure Program Synthesis Hackathon 2026
 - 5th — Orange AI Hackathon (Clinical AI), 15,000+ applicants
+- Top 20 of 200 — Bathel AI Challenge 2026: Serving Islamic Content ([Isharati](https://github.com/astral-fate/isharati-signs))
 
 </details>
 
